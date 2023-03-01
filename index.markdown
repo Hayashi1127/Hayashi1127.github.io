@@ -4,4 +4,3 @@
 
 layout: home
 ---
-# Hayashi's portfolio
