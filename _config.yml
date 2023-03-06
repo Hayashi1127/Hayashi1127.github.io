@@ -33,7 +33,7 @@ github_username: Hayashi1127
 theme: minima
 plugins:
   - jekyll-feed
-markdown: GFM
+markdown: kramdown #kramdown or GFM
 
 # Exclude from processing.
 # The following items will not be processed, by default.
