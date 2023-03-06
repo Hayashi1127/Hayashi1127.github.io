@@ -31,6 +31,7 @@ github_username: Hayashi1127
 
 # Build settings
 theme: minima
+remote-theme: benbalter/retlab
 plugins:
   - jekyll-feed
 markdown: kramdown #kramdown or GFM
