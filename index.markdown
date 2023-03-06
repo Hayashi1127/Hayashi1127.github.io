@@ -2,9 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home  
+layout: home
 ---  
-あ
+
 ## こんなことやってます
 ### 1. MIKUEC  
 電気通信大学公認サークル、バーチャルライブ研究会(VLL)での活動。  
