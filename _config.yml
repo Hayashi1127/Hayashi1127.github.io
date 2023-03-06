@@ -30,11 +30,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Hayashi1127
 
 # Build settings
-theme: jekyll-theme-slate
-#remote-theme: jekyll-theme-slate
+theme: minima
+remote-theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
-markdown: kramdown #kramdown or GFM
+markdown: GFM #kramdown or GFM
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -44,14 +44,15 @@ markdown: kramdown #kramdown or GFM
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+ exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - README.md
