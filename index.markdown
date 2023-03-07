@@ -10,6 +10,7 @@ title: Top
 ### 1. MIKUEC  
 電気通信大学公認サークル、バーチャルライブ研究会(VLL)での活動。  
 主に音源の制作、PAをやってます。  
+![acoustic](/assets/_img/mikuec/acoustic-min.png)
 
 ### 2. VRライブシステム(大学の授業)  
 Unity、C#を用いてオンラインVRライブシステムを個人開発  
