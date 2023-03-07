@@ -31,9 +31,11 @@ github_username: Hayashi1127
 
 # Build settings
 theme: minima
+remote-theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
-markdown: GFM #kramdown or GFM
+  - jekyll-remote-theme
+markdown: kramdown #kramdown or GFM
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -43,15 +45,15 @@ markdown: GFM #kramdown or GFM
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
- exclude:
-   - .sass-cache/
-   - .jekyll-cache/
-   - gemfiles/
-   - Gemfile
-   - Gemfile.lock
-   - node_modules/
-   - vendor/bundle/
-   - vendor/cache/
-   - vendor/gems/
-   - vendor/ruby/
-   - README.md
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+#   - README.md
