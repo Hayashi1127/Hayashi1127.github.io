@@ -4,17 +4,20 @@
 
 layout: default
 title: Top
+<link href="">
 ---  
 
 ## こんなことやってます
 ### 1. MIKUEC  
 電気通信大学公認サークル、バーチャルライブ研究会(VLL)での活動。  
 主に音源の制作、PAをやってます。  
+<div class="img-row">
 ![音源制作](https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/LNGN_cover.png?raw=true)  
 ![MIKUECの様子](https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/acoustic-min.png?raw=true)  
+</div>
 
 ### 2. VRライブシステム(大学の授業)  
-Unity、C#を用いてオンラインVRライブシステムを個人開発  
+Unity、C#を用いてオンラインVRライブシステムを個人開発
 
 ### 3. UOUOぱらだいす(大学の授業)  
 Javaを用いて2Dゲームをチーム開発  
