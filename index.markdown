@@ -38,16 +38,4 @@ Javaを用いて2Dゲームをチーム開発
     - cpuクーラー： intelのリテール品
     - 電源： CoolerMaster 
     - ケース：　Thermaltake Versa H26  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-a  
-aa  
-a  
-a  
-a  
-a  
+    
