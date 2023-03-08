@@ -18,7 +18,7 @@ title: Hayashi's portfolio
 -->
 
 <div class="img-row">
-<img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/LNGN_cover.png?raw=true">
+<img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/LNGN_cover.png?raw=true"> 
 <img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/acoustic-min.png?raw=true">
 </div>
 

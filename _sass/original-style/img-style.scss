@@ -1,4 +1,4 @@
-$img-times: 20;
+$img-times: 25;
 
 .img-row{
     display: flex;
@@ -8,4 +8,5 @@ $img-times: 20;
 img{
     width: 16px * $img-times;
     height: 9px * $img-times;
+    margin: 0px 5px;
 }
