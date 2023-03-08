@@ -4,7 +4,7 @@
 
 layout: default
 title: Top
-<link href="">
+<link href="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/css/style.scss" rel="stylesheet"></link>
 ---  
 
 ## こんなことやってます
