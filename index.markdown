@@ -17,11 +17,13 @@ title: Top
 ![MIKUECの様子](/assets/_img/mikuec/acoustic-min.png?raw=true)
 -->
 
-![音源制作](https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/LNGN_cover.png?raw=true)
-![MIKUECの様子](https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/acoustic-min.png?raw=true)  
+<div class="img-row">
+<img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/LNGN_cover.png?raw=true">
+<img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/acoustic-min.png?raw=true">
+</div>
 
 ### 2. VRライブシステム(大学の授業)  
-<p class="redfont">Unity</p>、C#を用いてオンラインVRライブシステムを個人開発
+Unity、C#を用いてオンラインVRライブシステムを個人開発
 
 ### 3. UOUOぱらだいす(大学の授業)  
 Javaを用いて2Dゲームをチーム開発  

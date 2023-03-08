@@ -1,0 +1,11 @@
+$img-times: 20;
+
+.img-row{
+    display: flex;
+    justify-content: center;
+   }
+
+img{
+    width: 16px * $img-times;
+    height: 9px * $img-times;
+}
