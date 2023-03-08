@@ -24,7 +24,7 @@ title: Top
 ![MIKUECの様子](https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/acoustic-min.png?raw=true)  
 
 ### 2. VRライブシステム(大学の授業)  
-<div class="red">Unity、C#を用いてオンラインVRライブシステムを個人開発</div>
+<p class="red">Unity</p>、C#を用いてオンラインVRライブシステムを個人開発
 
 ### 3. UOUOぱらだいす(大学の授業)  
 Javaを用いて2Dゲームをチーム開発  
