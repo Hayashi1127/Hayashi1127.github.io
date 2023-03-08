@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Top
+title: Hayashi's portfolio
 
 ---  
 
@@ -38,3 +38,16 @@ Javaを用いて2Dゲームをチーム開発
     - cpuクーラー： intelのリテール品
     - 電源： CoolerMaster 
     - ケース：　Thermaltake Versa H26  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+a  
+aa  
+a  
+a  
+a  
+a  
