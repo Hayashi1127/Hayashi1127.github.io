@@ -6,9 +6,9 @@ layout: default
 title: Hayashi's portfolio
 
 ---  
-
-## こんなことやってます
-### 1. MIKUEC  
+  
+# こんなことやってます
+## MIKUEC  
 電気通信大学公認サークル、バーチャルライブ研究会(VLL)での活動。  
 主に音源の制作、PAをやってます。  
 
@@ -22,13 +22,13 @@ title: Hayashi's portfolio
 <img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/acoustic-min.png?raw=true">
 </div>
 
-### 2. VRライブシステム(大学の授業)  
+## VRライブシステム(大学の授業)  
 Unity、C#を用いてオンラインVRライブシステムを個人開発
 
-### 3. UOUOぱらだいす(大学の授業)  
+## UOUOぱらだいす(大学の授業)  
 Javaを用いて2Dゲームをチーム開発  
 
-### 4. 自作PC組んでみた
+## 自作PC組んでみた
 - 構成
     - cpu： intel i5 12400
     - グラフィックボード： Palit Geforce RTX 3060ti Dual OC 8GB
