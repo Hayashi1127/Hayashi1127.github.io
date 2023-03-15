@@ -34,7 +34,7 @@ Javaを用いて2Dゲームをチーム開発
     - グラフィックボード： Palit Geforce RTX 3060ti Dual OC 8GB
     - マザーボード： ASRock H670 PG Riptide
     - メモリ： 
-    - ストレージ： M.2 1TB、SSD 500GB、HDD 6TB(型番省略)
+    - ストレージ： M.2 1TB、SSD 500GB(型番省略)
     - cpuクーラー： intelのリテール品
     - 電源： CoolerMaster 
     - ケース：　Thermaltake Versa H26  
