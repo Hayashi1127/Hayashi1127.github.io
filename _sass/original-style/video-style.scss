@@ -1,2 +1,5 @@
 video{
+    preload: metadata;
+    width: 16px * $img-times;
+    height: 9px * $img-times;
 }
