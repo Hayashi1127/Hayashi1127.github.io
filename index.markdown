@@ -12,21 +12,16 @@ title: Hayashi's portfolio
 電気通信大学公認サークル、バーチャルライブ研究会(VLL)での活動。  
 主に音源の制作、PAをやってます。  
 
-<!--
-![音源制作](/assets/_img/mikuec/LNGN_cover.png?raw=true)  
-![MIKUECの様子](/assets/_img/mikuec/acoustic-min.png?raw=true)
--->
-
 <div class="img-row">
 <img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/LNGN_cover.png?raw=true"> 
 <img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/acoustic-min.png?raw=true">
 </div>
 
 ## VRライブシステム(大学の授業)  
-Unity、C#を用いてオンラインVRライブシステムを個人開発
+Unity、C#を用いてオンラインVRライブシステムを個人開発  
 <div class="img-row">
+<img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/Unity/vrLive2.png?raw=true">
 <img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/Unity/vrLive.png?raw=true">
-<video src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_videos/PenLight.mp4?raw=true" controls autoplay muted playsinline>
 </div>
 
 ## UOUOぱらだいす(大学の授業)  

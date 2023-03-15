@@ -1,5 +1,5 @@
+$video-times: 25;
 video{
-    preload: metadata;
-    width: 16px * $img-times;
-    height: 9px * $img-times;
+    width: 16px * $video-times;
+    height: 9px * $video-times;
 }
