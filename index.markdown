@@ -28,7 +28,7 @@ Unity、C#を用いてオンラインVRライブシステムを個人開発
 <p class="body-h2">UOUOぱらだいす(大学の授業)</p>  
 Javaを用いて2Dゲームをチーム開発  
 
-<p class="body-h2">自作PC組んでみた</p>
+<p class="body-h2">自作PC組んでみた</p>  
 - 構成
     - cpu： intel i5 12400
     - グラフィックボード： Palit Geforce RTX 3060ti Dual OC 8GB
@@ -38,4 +38,9 @@ Javaを用いて2Dゲームをチーム開発
     - cpuクーラー： intelのリテール品
     - 電源： CoolerMaster 
     - ケース：　Thermaltake Versa H26  
+
+<div class="img-row">
+<img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/original-pc/parts.jpg?raw=true"> 
+<img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/complete.jpg?raw=true">
+</div>
     
