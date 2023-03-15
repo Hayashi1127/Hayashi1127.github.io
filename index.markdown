@@ -41,6 +41,6 @@ Javaを用いて2Dゲームをチーム開発
 
 <div class="img-row">
 <img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/original-pc/parts.png?raw=true"> 
-<img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/mikuec/complete.png?raw=true">
+<img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/original-pc/complete.png?raw=true">
 </div>
     
