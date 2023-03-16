@@ -28,6 +28,8 @@ Unity、C#を用いてオンラインVRライブシステムを個人開発
 <p class="body-h2">UOUOぱらだいす(大学の授業)</p>  
 Javaを用いて2Dゲームをチーム開発  
 
+<img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/uouo/uouo-start.png?raw=true">
+
 <p class="body-h2">自作PC組んでみた</p>  
 - 構成
     - cpu： intel i5 12400
