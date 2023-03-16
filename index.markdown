@@ -22,14 +22,18 @@ title: Hayashi's portfolio
 <p class="body-h2">VRライブシステム(大学の授業)</p>  
 Unity、C#を用いてオンラインVRライブシステムを個人開発  
 
+<div class="img-unity">
 <img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/Unity/vrLive.png?raw=true">
+</div>
 
 
 <p class="body-h2">UOUOぱらだいす(大学の授業)</p>  
 Javaを用いて2Dゲームをチーム開発  
 
+<div class="img-uouo">
 <img src="https://github.com/Hayashi1127/Hayashi1127.github.io/blob/main/assets/_img/uouo/uouo-start.png?raw=true">
-
+</div>
+  
 <p class="body-h2">自作PC組んでみた</p>  
 - 構成
     - cpu： intel i5 12400
