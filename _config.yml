@@ -18,28 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+encoding: UTF-8
+
 title: Hayashi's portfolio
-#email: your-email@example.com
+author: Hayashi1127
+
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  林のポートフォリオを作りました。どんなことをしているのか簡単に書いていこうと思います。
+ 林のポートフォリオを作りました。どんなことをしているのか簡単に書いていこうと思います。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: Hayashi1127
-  github_username: Hayashi1127
+# twitter_username: Hayashi1127
+github_username: Hayashi1127
 
 # Build settings
-remote-theme: jekyll-sleek
-plugins:
-  - jekyll-sitemap
-  - jekyll-remote-theme
-  - jekyll-seo-tag
+theme: jekyll-sleek
+plugins: 
+ - jekyll-sitemap
+ - jekyll-remote-theme
+ - jekyll-seo-tag
 markdown: kramdown #kramdown or GFM
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+ - {name: 'Home', link: '/'}
+ - {name: 'About', link: '/about'}
+ - {name: 'Contact', link: '/contact'}
 
 # Exclude from processing.
 # The following items will not be processed, by default.
