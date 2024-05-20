@@ -28,11 +28,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Hayashi1127
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-sleek
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-seo-tag
 markdown: kramdown #kramdown or GFM
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Contact', link: '/contact'}
 
 # Exclude from processing.
 # The following items will not be processed, by default.
