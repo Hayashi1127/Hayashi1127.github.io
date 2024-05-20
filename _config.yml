@@ -32,7 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Hayashi1127
 
 # Build settings
-theme: jekyll-sleek
+# theme: jekyll-sleek
 remote-theme: janczizikow/sleek
 plugins: 
  - jekyll-sitemap
