@@ -46,8 +46,8 @@ author:
 # Build settings
 # theme: jekyll-sleek
 # remote_theme: janczizikow/sleek
-theme: "minimal-mistakes-jekyll"
-# remote_theme: "mmistakes/minimal-mistakes@4.26.1"
+# theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@4.26.1"
 plugins:
  - jekyll-paginate
  - jekyll-sitemap
