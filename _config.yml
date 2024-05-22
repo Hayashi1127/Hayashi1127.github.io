@@ -20,31 +20,53 @@
 
 encoding: UTF-8
 
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale                   : "ja-JP"
+
 title: Hayashi's portfolio
-author: Hayashi1127
+name: Hayashi
 
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  林のポートフォリオを作りました。どんなことをしているのか簡単に書いていこうと思います。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hayashi1127.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: Hayashi1127
-github_username: Hayashi1127
+# github_username: Hayashi1127
+
+author:
+ name: Hayashi
+ bio: "こんにちは"
+
 
 # Build settings
 # theme: jekyll-sleek
-remote_theme: janczizikow/sleek
-plugins: 
+# remote_theme: janczizikow/sleek
+# theme    : "lone-wolf-theme"
+remote_theme: "mmistakes/minimal-mistakes@4.26.1"
+plugins:
+ - jekyll-paginate
  - jekyll-sitemap
- - jekyll-remote-theme
+ - jekyll-gist
+ - jekyll-feed
  - jekyll-seo-tag
+ - jemoji
+ - jekyll-include-cache
 markdown: kramdown #kramdown or GFM
 
+gems: 
+ - jekyll-archives
+
 # THEME SETTINGS
-navigation: # Navigation links
- - {name: 'Home', link: '/'}
- - {name: 'About', link: '/about'}
- - {name: 'Contact', link: '/contact'}
+# navigation: # Navigation links
+#  - {name: 'Home', link: '/'}
+#  - {name: 'About', link: '/about'}
+#  - {name: 'Contact', link: '/contact'}
+
+include: 
+ - .htaccess
+ - _pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -66,3 +88,17 @@ navigation: # Navigation links
 #   - vendor/gems/
 #   - vendor/ruby/
 #   - README.md
+
+defaults: 
+ - scope: 
+    path: ""
+    type: posts
+   values: 
+    layout: single
+    author_profile: true 
+    read_time: true
+    comments: true
+    share: true
+    related: true
+
+main: 
