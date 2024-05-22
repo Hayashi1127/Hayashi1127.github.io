@@ -26,17 +26,22 @@ locale                   : "ja-JP"
 title: Hayashi's portfolio
 name: Hayashi
 
-# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  林のポートフォリオを作りました。どんなことをしているのか簡単に書いていこうと思います。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hayashi1127.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+teaser: "/assets/_img/posts/tateyama.png"
+logo: "/assets/_img/avatar.png"
+masthead_title: "Hayashi's portfolio"
+
 # twitter_username: Hayashi1127
 # github_username: Hayashi1127
 
 author:
- name: Hayashi
- bio: "こんにちは"
+ name: "Hayashi"
+ avatar: "/assets/_img/avatar.png"
+ bio: "電気通信大学大学院情報理工学研究科情報学専攻宮脇研究室所属"
+ location: "Chofu, Tokyo"
 
 
 # Build settings
