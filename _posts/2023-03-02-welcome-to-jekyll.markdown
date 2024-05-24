@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to Jekyll!"
-date:   2023-03-02 01:05:55 +0900
-categories: jekyll update
+# date:   2023-03-02 01:05:55 +0900
+# categories: jekyll update
 ---
 # jekyll導入
 
