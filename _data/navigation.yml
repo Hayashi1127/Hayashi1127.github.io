@@ -2,8 +2,8 @@ main:
  - title: "トップ"
    url: index.html
  - title: "制作物"
-   url: /docs/product/index.html
+   url: /docs/products/index.html
  - title: "音楽"
    url: /docs/musics/index.html
  - title: "ブログ"
-   url: /docs/blog/index.html
+   url: /docs/blogs/index.html
