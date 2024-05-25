@@ -33,6 +33,7 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
+        destination: ./_site
 
     - uses: actions/upload-pages-artifact@v3
 
