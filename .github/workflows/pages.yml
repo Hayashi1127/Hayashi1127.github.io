@@ -26,6 +26,7 @@ jobs:
     - name: deploy
       uses: peaceiris/actions-gh-pages@v3.2.0
       with:
+        SSH_AUTH_SOCK: "/tmp/ssh-agent.sock"
         ACTIONS_ALLOW_UNSECURE_COMMANDS: true
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         publish_branch: gh-pages
