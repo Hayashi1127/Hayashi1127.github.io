@@ -33,11 +33,7 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
-    - uses: actions/jekyll-build-pages@v1
-      with:
-        target_branch: 'gh-pages'
-    - uses:
-      actions/upload-pages-artifact@v3
+
   # Deployment job
   deploy:
     environment:
