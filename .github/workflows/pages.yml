@@ -36,6 +36,7 @@ jobs:
     
     - uses: actions/upload-pages-artifact@v3
       with:
+        source: .
         name: github-pages
 
   # Deployment job
