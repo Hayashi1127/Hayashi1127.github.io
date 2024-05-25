@@ -23,7 +23,9 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
 
-  deployment:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
     - name: deploy
       uses: peaceiris/actions-gh-pages@v2.5.0
       env:
