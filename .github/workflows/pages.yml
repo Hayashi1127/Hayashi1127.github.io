@@ -22,3 +22,9 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
+
+  deployment:
+    - name: deploy
+      uses: peaceiris/actions-gh-pages@v2.5.0
+      env:
+        PUBLISH_BRANCH: gh-pages
