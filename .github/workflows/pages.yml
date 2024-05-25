@@ -34,8 +34,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
 
-    - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+    - uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
