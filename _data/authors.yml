@@ -1,0 +1,13 @@
+hayashi:
+ name: "Hayashi"
+ avatar: "./assets/img/avatar.png"
+ bio: "電気通信大学"
+ links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/Hayashi1127"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/moyashiis30yen"
+  - label: "lab"
+    url: "http://www.cns.mi.uec.ac.jp/"
